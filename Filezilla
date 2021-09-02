@@ -1,0 +1,7 @@
+Use .ppk key   (under settings)
+Make sure ports 21-22 open 
+
+Protocol:  sftp
+Host: public ip of the EC2 instance                        (port doesn't required)
+Login type: normal
+user: ubuntu 
